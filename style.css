@@ -5,7 +5,7 @@
 .header{
   min-height:38vh;
   width:100%;
-  background-image:linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url("/storage/emulated/0/car display website/images/carlambo.png"); 
+  background-image:linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url("./carlambo.png"); 
   background-position:center;
   background-size:cover;
   position:relative;
@@ -219,7 +219,7 @@ p{
 .cta{
   margin:100px auto;
   width:80%;
-  background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url("/storage/emulated/0/car display website/images/campaign-creators-gMsnXqILjp4-unsplash.jpg");
+  background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url("./campaign-creators-gMsnXqILjp4-unsplash.jpg");
   background-position: center;
   background-size:cover;
   border-radius: 10px;
@@ -249,7 +249,7 @@ p{
 .ata{
   margin:100px auto;
   width:80%;
-  background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url("/storage/emulated/0/car display website/images/dylan-gillis-KdeqA3aTnBY-unsplash.jpg");
+  background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url("./dylan-gillis-KdeqA3aTnBY-unsplash.jpg");
   background-position: center;
   background-size:cover;
   border-radius: 10px;
@@ -260,7 +260,7 @@ p{
 .ata{
   margin:100px auto;
   width:80%;
-  background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url("/storage/emulated/0/car display website/images/campaign-creators-gMsnXqILjp4-unsplash.jpg");
+  background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url("./campaign-creators-gMsnXqILjp4-unsplash.jpg");
   background-position: center;
   background-size:cover;
   border-radius: 10px;
@@ -276,7 +276,7 @@ p{
 .Aheader{
   min-height:38vh;
   width:100%;
-  background-image:linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url("/storage/emulated/0/car display website/images/lIZrwvbeRuuzqOoWJUEn_Photoaday_CSD (1 of 1)-5.jpg"); 
+  background-image:linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url("./lIZrwvbeRuuzqOoWJUEn_Photoaday_CSD (1 of 1)-5.jpg"); 
   background-position:center;
   background-size:cover;
   position:relative;
@@ -284,7 +284,7 @@ p{
 .Bheader{
   min-height:38vh;
   width:100%;
-  background-image:linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url("/storage/emulated/0/car display website/images/photo-1502161254066-6c74afbf07aa.jpg"); 
+  background-image:linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url("./photo-1502161254066-6c74afbf07aa.jpg"); 
   background-position:center;
   background-size:cover;
   position:relative;
@@ -293,7 +293,7 @@ p{
 .bta{
   margin:100px auto;
   width:80%;
-  background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url("/storage/emulated/0/car display website/images/photo-1579508542697-bb18e7d9aeaa.jpg");
+  background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url("./photo-1579508542697-bb18e7d9aeaa.jpg");
   background-position: center;
   background-size:cover;
   border-radius: 10px;
@@ -309,7 +309,7 @@ p{
 .Blogheader{
   min-height:38vh;
   width:100%;
-  background-image:linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url("/storage/emulated/0/car display website/images/photo-1486312338219-ce68d2c6f44d.jpeg"); 
+  background-image:linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url("./photo-1486312338219-ce68d2c6f44d.jpeg"); 
   background-position:center;
   background-size:cover;
   position:relative;
